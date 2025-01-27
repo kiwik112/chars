@@ -1,0 +1,14 @@
+C:\Users\Pavel\source\repos\chars\bin\Debug\net8.0\chars.exe
+C:\Users\Pavel\source\repos\chars\bin\Debug\net8.0\chars.deps.json
+C:\Users\Pavel\source\repos\chars\bin\Debug\net8.0\chars.runtimeconfig.json
+C:\Users\Pavel\source\repos\chars\bin\Debug\net8.0\chars.dll
+C:\Users\Pavel\source\repos\chars\bin\Debug\net8.0\chars.pdb
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\chars.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\chars.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\chars.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\chars.dll
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\refint\chars.dll
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\chars.pdb
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\chars.genruntimeconfig.cache
+C:\Users\Pavel\source\repos\chars\obj\Debug\net8.0\ref\chars.dll
